@@ -1,0 +1,951 @@
+year,state,establishments,workers,totalwages
+2000,Alabama -- Statewide,423,6053,125427092
+2001,Alabama -- Statewide,426,5995,129261226
+2002,Alabama -- Statewide,423,5686,127754205
+2003,Alabama -- Statewide,425,5512,129822702
+2004,Alabama -- Statewide,442,5821,142718119
+2005,Alabama -- Statewide,444,5867,152108125
+2006,Alabama -- Statewide,443,5883,158953597
+2007,Alabama -- Statewide,437,5728,164422193
+2008,Alabama -- Statewide,451,5402,161016803
+2009,Alabama -- Statewide,446,5124,156166141
+2010,Alabama -- Statewide,451,5014,157304197
+2011,Alabama -- Statewide,444,4892,162963103
+2012,Alabama -- Statewide,449,5022,162480896
+2013,Alabama -- Statewide,466,4878,163984955
+2014,Alabama -- Statewide,488,4901,170288327
+2015,Alabama -- Statewide,498,5011,185570716
+2016,Alabama -- Statewide,501,5159,194171355
+2017,Alabama -- Statewide,507,5232,201041556
+2018,Alabama -- Statewide,523,5263,208246836
+2000,Alaska -- Statewide,39,377,10529506
+2001,Alaska -- Statewide,28,246,7688614
+2002,Alaska -- Statewide,0,0,0
+2003,Alaska -- Statewide,40,444,12128581
+2004,Alaska -- Statewide,41,167,3511129
+2005,Alaska -- Statewide,41,422,12018900
+2006,Alaska -- Statewide,39,427,11848095
+2007,Alaska -- Statewide,41,263,8858737
+2008,Alaska -- Statewide,43,262,9063245
+2009,Alaska -- Statewide,56,0,0
+2010,Alaska -- Statewide,57,271,9806214
+2011,Alaska -- Statewide,60,290,10458854
+2012,Alaska -- Statewide,65,519,15668907
+2013,Alaska -- Statewide,65,511,16032610
+2014,Alaska -- Statewide,69,519,16659092
+2015,Alaska -- Statewide,77,540,17794487
+2016,Alaska -- Statewide,76,557,18140470
+2017,Alaska -- Statewide,97,328,13664636
+2018,Alaska -- Statewide,119,927,29179362
+2000,Arizona -- Statewide,789,14930,279115090
+2001,Arizona -- Statewide,758,14153,282604092
+2002,Arizona -- Statewide,766,14316,293731631
+2003,Arizona -- Statewide,529,10683,212664564
+2004,Arizona -- Statewide,751,14532,326535918
+2005,Arizona -- Statewide,733,14991,368501216
+2006,Arizona -- Statewide,718,14067,344220023
+2007,Arizona -- Statewide,717,14014,368611994
+2008,Arizona -- Statewide,714,13171,377005292
+2009,Arizona -- Statewide,699,12340,350780687
+2010,Arizona -- Statewide,686,12048,348635370
+2011,Arizona -- Statewide,685,12170,358134974
+2012,Arizona -- Statewide,682,12582,377043170
+2013,Arizona -- Statewide,684,12801,386560944
+2014,Arizona -- Statewide,685,12853,405984020
+2015,Arizona -- Statewide,687,13051,430074545
+2016,Arizona -- Statewide,670,12911,441045405
+2017,Arizona -- Statewide,664,13971,497591752
+2018,Arizona -- Statewide,688,13963,515892297
+2000,Arkansas -- Statewide,916,7800,167820486
+2001,Arkansas -- Statewide,954,7873,177793785
+2002,Arkansas -- Statewide,993,7829,181107662
+2003,Arkansas -- Statewide,994,7834,188501649
+2004,Arkansas -- Statewide,980,7767,195350726
+2005,Arkansas -- Statewide,978,7596,193308869
+2006,Arkansas -- Statewide,976,7377,195300067
+2007,Arkansas -- Statewide,973,7264,196342719
+2008,Arkansas -- Statewide,991,7277,203226646
+2009,Arkansas -- Statewide,1024,7285,203439982
+2010,Arkansas -- Statewide,1074,7262,216183999
+2011,Arkansas -- Statewide,1105,6848,208262234
+2012,Arkansas -- Statewide,1124,7232,228900664
+2013,Arkansas -- Statewide,1159,7257,238978658
+2014,Arkansas -- Statewide,1218,7562,262669292
+2015,Arkansas -- Statewide,1256,7558,273816341
+2016,Arkansas -- Statewide,1272,7457,278416310
+2017,Arkansas -- Statewide,1274,7340,290842183
+2018,Arkansas -- Statewide,1275,7254,293489924
+2000,California -- Statewide,18715,226510,4436125298
+2001,California -- Statewide,17828,218045,4475475834
+2002,California -- Statewide,17261,216055,4629435961
+2003,California -- Statewide,16499,213291,4607446240
+2004,California -- Statewide,15683,208186,4687683127
+2005,California -- Statewide,14808,206261,4849954643
+2006,California -- Statewide,14469,201466,4970668289
+2007,California -- Statewide,13846,202177,5264504859
+2008,California -- Statewide,13472,204980,5466897766
+2009,California -- Statewide,13161,199198,5329719952
+2010,California -- Statewide,12895,198367,5387277048
+2011,California -- Statewide,12578,199473,5573510846
+2012,California -- Statewide,12329,200488,5844948468
+2013,California -- Statewide,12254,203042,6188113986
+2014,California -- Statewide,12275,203267,6434091843
+2015,California -- Statewide,12102,205033,6756461922
+2016,California -- Statewide,11747,201323,7012087560
+2017,California -- Statewide,11641,197848,7139402568
+2018,California -- Statewide,11873,193870,7285328359
+2000,Colorado -- Statewide,928,12642,278950165
+2001,Colorado -- Statewide,947,12468,284324971
+2002,Colorado -- Statewide,970,12277,283700351
+2003,Colorado -- Statewide,987,11805,280803331
+2004,Colorado -- Statewide,1002,12107,301170120
+2005,Colorado -- Statewide,1019,12354,311019015
+2006,Colorado -- Statewide,1013,12173,318288434
+2007,Colorado -- Statewide,1005,12007,328127127
+2008,Colorado -- Statewide,1006,11581,335417801
+2009,Colorado -- Statewide,1008,11171,322104984
+2010,Colorado -- Statewide,1024,11025,324099028
+2011,Colorado -- Statewide,1027,11292,337788876
+2012,Colorado -- Statewide,1051,11587,353380737
+2013,Colorado -- Statewide,1064,11341,355251639
+2014,Colorado -- Statewide,1088,11958,389225454
+2015,Colorado -- Statewide,1152,12608,437056088
+2016,Colorado -- Statewide,1205,13303,467852147
+2017,Colorado -- Statewide,1253,14067,514828560
+2018,Colorado -- Statewide,1296,14679,565628539
+2000,Connecticut -- Statewide,215,4730,111383935
+2001,Connecticut -- Statewide,232,4883,116505584
+2002,Connecticut -- Statewide,243,4679,114402588
+2003,Connecticut -- Statewide,257,4947,122272869
+2004,Connecticut -- Statewide,257,4944,126488757
+2005,Connecticut -- Statewide,262,4922,128026535
+2006,Connecticut -- Statewide,264,4628,124942583
+2007,Connecticut -- Statewide,268,4621,126319642
+2008,Connecticut -- Statewide,267,4498,126345013
+2009,Connecticut -- Statewide,280,4284,121751601
+2010,Connecticut -- Statewide,288,4332,124242686
+2011,Connecticut -- Statewide,284,4614,133167392
+2012,Connecticut -- Statewide,288,4636,129078348
+2013,Connecticut -- Statewide,290,4840,133816858
+2014,Connecticut -- Statewide,289,4780,137472098
+2015,Connecticut -- Statewide,291,4494,145652337
+2016,Connecticut -- Statewide,298,4367,149850612
+2017,Connecticut -- Statewide,303,4409,158141796
+2018,Connecticut -- Statewide,305,4390,158628971
+2000,Delaware -- Statewide,105,1382,35238228
+2001,Delaware -- Statewide,106,1307,33875117
+2002,Delaware -- Statewide,104,1270,34269337
+2003,Delaware -- Statewide,105,1293,35773146
+2004,Delaware -- Statewide,109,1326,41176939
+2005,Delaware -- Statewide,114,1300,41098588
+2006,Delaware -- Statewide,115,1222,38415076
+2007,Delaware -- Statewide,114,1195,39751215
+2008,Delaware -- Statewide,115,1227,40727198
+2009,Delaware -- Statewide,114,1247,39781392
+2010,Delaware -- Statewide,120,1210,41313648
+2011,Delaware -- Statewide,125,1170,38799693
+2012,Delaware -- Statewide,125,1123,37096459
+2013,Delaware -- Statewide,126,1079,37088713
+2014,Delaware -- Statewide,126,1146,39146798
+2015,Delaware -- Statewide,132,1175,41207669
+2016,Delaware -- Statewide,136,1096,42311534
+2017,Delaware -- Statewide,139,1259,48699230
+2018,Delaware -- Statewide,139,1213,46107437
+2000,Florida -- Statewide,2964,63127,1170526626
+2001,Florida -- Statewide,2970,64667,1197215872
+2002,Florida -- Statewide,2955,63781,1209037151
+2003,Florida -- Statewide,2914,63811,1235710911
+2004,Florida -- Statewide,2945,62573,1299142973
+2005,Florida -- Statewide,3097,62206,1328314411
+2006,Florida -- Statewide,3107,61768,1406204245
+2007,Florida -- Statewide,3128,61937,1401101201
+2008,Florida -- Statewide,3109,58390,1334199330
+2009,Florida -- Statewide,3050,55606,1240159336
+2010,Florida -- Statewide,3041,53430,1239338167
+2011,Florida -- Statewide,3102,54850,1321689154
+2012,Florida -- Statewide,3130,55692,1411302612
+2013,Florida -- Statewide,3136,55476,1446788469
+2014,Florida -- Statewide,3155,55261,1476612422
+2015,Florida -- Statewide,3167,54923,1574757305
+2016,Florida -- Statewide,3154,54053,1594305589
+2017,Florida -- Statewide,3109,52116,1590830722
+2018,Florida -- Statewide,3139,50201,1627760898
+2000,Georgia -- Statewide,988,15290,278536132
+2001,Georgia -- Statewide,954,15343,282435501
+2002,Georgia -- Statewide,979,15039,285981748
+2003,Georgia -- Statewide,1014,15354,299797626
+2004,Georgia -- Statewide,996,15139,295278545
+2005,Georgia -- Statewide,1021,14415,311458029
+2006,Georgia -- Statewide,1035,14501,322621528
+2007,Georgia -- Statewide,1049,14181,336339316
+2008,Georgia -- Statewide,1080,14029,335180397
+2009,Georgia -- Statewide,1103,13759,320373103
+2010,Georgia -- Statewide,1093,14344,331095352
+2011,Georgia -- Statewide,1105,13928,343571888
+2012,Georgia -- Statewide,1116,14153,358508793
+2013,Georgia -- Statewide,1169,14425,369159905
+2014,Georgia -- Statewide,1194,14512,393946975
+2015,Georgia -- Statewide,1248,14655,417461449
+2016,Georgia -- Statewide,1274,14452,428298420
+2017,Georgia -- Statewide,1239,13837,436098315
+2018,Georgia -- Statewide,1262,13890,452007898
+2000,Hawaii -- Statewide,291,7085,170677760
+2001,Hawaii -- Statewide,309,6826,162684159
+2002,Hawaii -- Statewide,306,6722,163528914
+2003,Hawaii -- Statewide,320,6756,169309485
+2004,Hawaii -- Statewide,323,6860,173615519
+2005,Hawaii -- Statewide,331,6672,179172597
+2006,Hawaii -- Statewide,326,6547,185961120
+2007,Hawaii -- Statewide,335,6075,179873160
+2008,Hawaii -- Statewide,340,5948,183233750
+2009,Hawaii -- Statewide,340,5777,182559769
+2010,Hawaii -- Statewide,338,5564,174981242
+2011,Hawaii -- Statewide,333,5408,180128292
+2012,Hawaii -- Statewide,335,5459,190551289
+2013,Hawaii -- Statewide,326,5486,188961535
+2014,Hawaii -- Statewide,344,5652,196972093
+2015,Hawaii -- Statewide,352,5821,208961820
+2016,Hawaii -- Statewide,365,5473,202086351
+2017,Hawaii -- Statewide,385,5235,198082066
+2018,Hawaii -- Statewide,398,5184,198382407
+2000,Idaho -- Statewide,1206,13974,271603279
+2001,Idaho -- Statewide,1213,13721,277773825
+2002,Idaho -- Statewide,1224,14431,298221623
+2003,Idaho -- Statewide,1234,14648,312487317
+2004,Idaho -- Statewide,1240,14770,333463438
+2005,Idaho -- Statewide,1283,15276,352503327
+2006,Idaho -- Statewide,1303,15787,379748183
+2007,Idaho -- Statewide,1319,16287,413765665
+2008,Idaho -- Statewide,1349,16486,444193059
+2009,Idaho -- Statewide,1363,16843,454179697
+2010,Idaho -- Statewide,1369,16387,452261676
+2011,Idaho -- Statewide,1376,17050,483938650
+2012,Idaho -- Statewide,1382,17371,506887244
+2013,Idaho -- Statewide,1410,17497,529189893
+2014,Idaho -- Statewide,1430,18252,569897559
+2015,Idaho -- Statewide,1472,18694,605893306
+2016,Idaho -- Statewide,1514,18986,637144964
+2017,Idaho -- Statewide,1558,18963,663024234
+2018,Idaho -- Statewide,1584,18915,691828165
+2000,Illinois -- Statewide,1054,12625,305398220
+2001,Illinois -- Statewide,1061,12846,315216763
+2002,Illinois -- Statewide,1040,12520,314974729
+2003,Illinois -- Statewide,1049,12548,315732715
+2004,Illinois -- Statewide,1067,12774,342098111
+2005,Illinois -- Statewide,1095,12481,343178559
+2006,Illinois -- Statewide,1123,12694,353567962
+2007,Illinois -- Statewide,1133,12812,364469066
+2008,Illinois -- Statewide,1172,13081,389748423
+2009,Illinois -- Statewide,1218,12772,385412496
+2010,Illinois -- Statewide,1293,13514,414016237
+2011,Illinois -- Statewide,1360,13200,418086239
+2012,Illinois -- Statewide,1409,13563,445275176
+2013,Illinois -- Statewide,1462,14139,478640125
+2014,Illinois -- Statewide,1516,13691,479866512
+2015,Illinois -- Statewide,1579,14108,506625081
+2016,Illinois -- Statewide,1617,14750,533870755
+2017,Illinois -- Statewide,1606,14975,551552720
+2018,Illinois -- Statewide,1660,14915,563094170
+2000,Indiana -- Statewide,942,10571,239667477
+2001,Indiana -- Statewide,947,10476,253469707
+2002,Indiana -- Statewide,955,10380,255053311
+2003,Indiana -- Statewide,967,10374,257839984
+2004,Indiana -- Statewide,979,10679,272502092
+2005,Indiana -- Statewide,1018,10585,276825708
+2006,Indiana -- Statewide,1013,10611,288002203
+2007,Indiana -- Statewide,1008,10810,305076559
+2008,Indiana -- Statewide,1037,11103,342596044
+2009,Indiana -- Statewide,1096,11173,340515412
+2010,Indiana -- Statewide,1148,11626,357340595
+2011,Indiana -- Statewide,1186,12165,384428037
+2012,Indiana -- Statewide,1246,12525,408094010
+2013,Indiana -- Statewide,1287,12852,446223683
+2014,Indiana -- Statewide,1340,12592,450441398
+2015,Indiana -- Statewide,1418,12946,470331208
+2016,Indiana -- Statewide,1466,13243,490196294
+2017,Indiana -- Statewide,1504,13424,509338072
+2018,Indiana -- Statewide,1533,13401,531409300
+2000,Iowa -- Statewide,1221,9114,199924867
+2001,Iowa -- Statewide,1203,9735,223387910
+2002,Iowa -- Statewide,1205,10239,237274601
+2003,Iowa -- Statewide,1222,10215,245433847
+2004,Iowa -- Statewide,1204,10409,260150424
+2005,Iowa -- Statewide,1215,10922,280330432
+2006,Iowa -- Statewide,1280,11420,300080301
+2007,Iowa -- Statewide,1333,11962,327978157
+2008,Iowa -- Statewide,1403,12372,357995701
+2009,Iowa -- Statewide,1465,12547,374035228
+2010,Iowa -- Statewide,1533,12605,383059817
+2011,Iowa -- Statewide,1600,13093,417156685
+2012,Iowa -- Statewide,1710,13656,450764317
+2013,Iowa -- Statewide,1853,14258,479579321
+2014,Iowa -- Statewide,1959,15427,552505709
+2015,Iowa -- Statewide,2001,15827,580501252
+2016,Iowa -- Statewide,2040,16230,605269485
+2017,Iowa -- Statewide,2070,16534,633327419
+2018,Iowa -- Statewide,2112,16988,676894955
+2000,Kansas -- Statewide,772,7462,183167953
+2001,Kansas -- Statewide,772,7599,193158200
+2002,Kansas -- Statewide,789,7686,194748347
+2003,Kansas -- Statewide,789,7786,203681836
+2004,Kansas -- Statewide,783,7805,215168622
+2005,Kansas -- Statewide,804,8220,241122893
+2006,Kansas -- Statewide,801,8310,248789569
+2007,Kansas -- Statewide,814,8381,262616436
+2008,Kansas -- Statewide,855,8562,280270026
+2009,Kansas -- Statewide,907,8708,287577821
+2010,Kansas -- Statewide,978,8895,301675650
+2011,Kansas -- Statewide,1054,9272,325160288
+2012,Kansas -- Statewide,1075,9628,353654363
+2013,Kansas -- Statewide,1155,9822,355504429
+2014,Kansas -- Statewide,1234,10282,391270793
+2015,Kansas -- Statewide,1305,10569,414035220
+2016,Kansas -- Statewide,1374,10978,426568263
+2017,Kansas -- Statewide,1381,11071,444084971
+2018,Kansas -- Statewide,1382,11236,465025326
+2000,Kentucky -- Statewide,407,3679,80706725
+2001,Kentucky -- Statewide,431,3900,90900058
+2002,Kentucky -- Statewide,441,3837,92872397
+2003,Kentucky -- Statewide,443,3836,95191930
+2004,Kentucky -- Statewide,429,3739,88641302
+2005,Kentucky -- Statewide,440,3795,93885799
+2006,Kentucky -- Statewide,461,3868,98417049
+2007,Kentucky -- Statewide,471,3963,104910615
+2008,Kentucky -- Statewide,477,4069,109782323
+2009,Kentucky -- Statewide,505,4116,114369480
+2010,Kentucky -- Statewide,530,4108,115170633
+2011,Kentucky -- Statewide,536,4084,117161167
+2012,Kentucky -- Statewide,582,4237,127844328
+2013,Kentucky -- Statewide,635,4584,139801264
+2014,Kentucky -- Statewide,669,4867,150169553
+2015,Kentucky -- Statewide,679,4925,162233251
+2016,Kentucky -- Statewide,702,5032,169332222
+2017,Kentucky -- Statewide,699,5131,177862829
+2018,Kentucky -- Statewide,706,5268,193986741
+2000,Louisiana -- Statewide,634,6671,115517381
+2001,Louisiana -- Statewide,654,6674,117735311
+2002,Louisiana -- Statewide,665,6185,114574725
+2003,Louisiana -- Statewide,672,6065,116597351
+2004,Louisiana -- Statewide,671,6030,116350025
+2005,Louisiana -- Statewide,670,5723,109916352
+2006,Louisiana -- Statewide,670,5345,110809900
+2007,Louisiana -- Statewide,655,5080,115390435
+2008,Louisiana -- Statewide,669,4842,116408800
+2009,Louisiana -- Statewide,668,4499,112121889
+2010,Louisiana -- Statewide,682,4524,124520985
+2011,Louisiana -- Statewide,668,4474,129276062
+2012,Louisiana -- Statewide,669,4702,147612169
+2013,Louisiana -- Statewide,677,4577,145300170
+2014,Louisiana -- Statewide,679,4629,149684668
+2015,Louisiana -- Statewide,695,4529,151431748
+2016,Louisiana -- Statewide,697,4761,159598653
+2017,Louisiana -- Statewide,679,4797,166823878
+2018,Louisiana -- Statewide,684,4554,170454166
+2000,Maine -- Statewide,268,2533,47437681
+2001,Maine -- Statewide,269,2298,44705355
+2002,Maine -- Statewide,267,2163,41818030
+2003,Maine -- Statewide,275,2293,43941008
+2004,Maine -- Statewide,280,2274,46129180
+2005,Maine -- Statewide,272,2122,42690834
+2006,Maine -- Statewide,281,2211,47807574
+2007,Maine -- Statewide,296,2385,54176504
+2008,Maine -- Statewide,306,2451,58110274
+2009,Maine -- Statewide,297,2532,59650377
+2010,Maine -- Statewide,298,2634,63264688
+2011,Maine -- Statewide,310,2755,67516185
+2012,Maine -- Statewide,320,2917,75106811
+2013,Maine -- Statewide,314,2913,76310007
+2014,Maine -- Statewide,327,2985,80693445
+2015,Maine -- Statewide,342,3130,87929793
+2016,Maine -- Statewide,371,3427,97567916
+2017,Maine -- Statewide,395,3398,99141310
+2018,Maine -- Statewide,396,3640,110575390
+2000,Maryland -- Statewide,353,3511,77148485
+2001,Maryland -- Statewide,346,3541,81801471
+2002,Maryland -- Statewide,364,3561,84889015
+2003,Maryland -- Statewide,362,3567,88620757
+2004,Maryland -- Statewide,373,3633,97329694
+2005,Maryland -- Statewide,362,3528,97435132
+2006,Maryland -- Statewide,365,3422,100946689
+2007,Maryland -- Statewide,350,3405,100925221
+2008,Maryland -- Statewide,347,3494,105796363
+2009,Maryland -- Statewide,351,3598,109400273
+2010,Maryland -- Statewide,349,3677,114495375
+2011,Maryland -- Statewide,349,3898,122684073
+2012,Maryland -- Statewide,354,4231,133598517
+2013,Maryland -- Statewide,360,3790,121254988
+2014,Maryland -- Statewide,358,3955,132492735
+2015,Maryland -- Statewide,358,3890,133604102
+2016,Maryland -- Statewide,357,3943,137668977
+2017,Maryland -- Statewide,369,3986,145292632
+2018,Maryland -- Statewide,383,4099,155726698
+2000,Massachusetts -- Statewide,379,3671,81524977
+2001,Massachusetts -- Statewide,377,3734,84577828
+2002,Massachusetts -- Statewide,382,3727,87454674
+2003,Massachusetts -- Statewide,389,3782,91932645
+2004,Massachusetts -- Statewide,390,3824,98109603
+2005,Massachusetts -- Statewide,392,3857,101880296
+2006,Massachusetts -- Statewide,368,3647,100533610
+2007,Massachusetts -- Statewide,361,3613,103314565
+2008,Massachusetts -- Statewide,365,3616,105344547
+2009,Massachusetts -- Statewide,370,3623,103322606
+2010,Massachusetts -- Statewide,389,3807,108023515
+2011,Massachusetts -- Statewide,418,4757,189809894
+2012,Massachusetts -- Statewide,427,5035,194684379
+2013,Massachusetts -- Statewide,439,5198,219565120
+2014,Massachusetts -- Statewide,458,5313,245199643
+2015,Massachusetts -- Statewide,460,5437,251688262
+2016,Massachusetts -- Statewide,467,5935,287968109
+2017,Massachusetts -- Statewide,389,6074,322406073
+2018,Massachusetts -- Statewide,367,6467,342767303
+2000,Michigan -- Statewide,1499,18792,333370658
+2001,Michigan -- Statewide,1544,19551,357775287
+2002,Michigan -- Statewide,1531,19481,368391214
+2003,Michigan -- Statewide,1496,19826,388372121
+2004,Michigan -- Statewide,1526,20143,411159024
+2005,Michigan -- Statewide,1547,20166,419019493
+2006,Michigan -- Statewide,1572,20773,443130219
+2007,Michigan -- Statewide,1579,21480,479708165
+2008,Michigan -- Statewide,1631,21668,508605902
+2009,Michigan -- Statewide,1645,22527,518762723
+2010,Michigan -- Statewide,1665,22337,530704945
+2011,Michigan -- Statewide,1660,22408,552014752
+2012,Michigan -- Statewide,1697,21881,563279475
+2013,Michigan -- Statewide,1780,23656,626723762
+2014,Michigan -- Statewide,1832,24889,683351140
+2015,Michigan -- Statewide,1888,25298,725949726
+2016,Michigan -- Statewide,1923,26182,791013147
+2017,Michigan -- Statewide,1966,25922,795235353
+2018,Michigan -- Statewide,2004,25176,802558479
+2000,Minnesota -- Statewide,1220,12369,265470883
+2001,Minnesota -- Statewide,1258,12940,282613659
+2002,Minnesota -- Statewide,1266,13194,298979776
+2003,Minnesota -- Statewide,1291,13306,306391715
+2004,Minnesota -- Statewide,1311,13841,334974429
+2005,Minnesota -- Statewide,1352,14083,338101406
+2006,Minnesota -- Statewide,1378,14424,360261679
+2007,Minnesota -- Statewide,1403,14857,388372440
+2008,Minnesota -- Statewide,1468,14936,406647185
+2009,Minnesota -- Statewide,1508,15122,416935643
+2010,Minnesota -- Statewide,1581,15455,428121733
+2011,Minnesota -- Statewide,1687,16057,454731344
+2012,Minnesota -- Statewide,1798,16900,506103326
+2013,Minnesota -- Statewide,1815,17357,538422002
+2014,Minnesota -- Statewide,1866,17281,574919122
+2015,Minnesota -- Statewide,1887,17842,623174964
+2016,Minnesota -- Statewide,1943,17932,647527858
+2017,Minnesota -- Statewide,2013,18529,692684305
+2018,Minnesota -- Statewide,2055,18312,707797466
+2000,Mississippi -- Statewide,753,9217,174607491
+2001,Mississippi -- Statewide,764,8892,173921553
+2002,Mississippi -- Statewide,765,8398,169715780
+2003,Mississippi -- Statewide,761,8506,181608530
+2004,Mississippi -- Statewide,765,8507,187216760
+2005,Mississippi -- Statewide,765,8426,185340158
+2006,Mississippi -- Statewide,776,7945,178993948
+2007,Mississippi -- Statewide,774,7890,185501241
+2008,Mississippi -- Statewide,782,7625,189242578
+2009,Mississippi -- Statewide,797,7632,189464587
+2010,Mississippi -- Statewide,800,7690,197280800
+2011,Mississippi -- Statewide,800,7669,200148060
+2012,Mississippi -- Statewide,819,7733,209840293
+2013,Mississippi -- Statewide,824,7513,211062070
+2014,Mississippi -- Statewide,821,7457,216528955
+2015,Mississippi -- Statewide,813,7148,216444656
+2016,Mississippi -- Statewide,832,7237,223447512
+2017,Mississippi -- Statewide,818,6732,227814549
+2018,Mississippi -- Statewide,822,6440,224404170
+2000,Missouri -- Statewide,898,8679,181564938
+2001,Missouri -- Statewide,923,8700,187656555
+2002,Missouri -- Statewide,940,8604,188487371
+2003,Missouri -- Statewide,937,8480,188498085
+2004,Missouri -- Statewide,938,8462,198522323
+2005,Missouri -- Statewide,968,8478,211571239
+2006,Missouri -- Statewide,976,8646,216188927
+2007,Missouri -- Statewide,1014,8704,228104331
+2008,Missouri -- Statewide,1009,8750,228758007
+2009,Missouri -- Statewide,1004,8395,228937927
+2010,Missouri -- Statewide,1001,8454,237424145
+2011,Missouri -- Statewide,998,8522,242084672
+2012,Missouri -- Statewide,1068,9009,264702766
+2013,Missouri -- Statewide,1104,9202,275272603
+2014,Missouri -- Statewide,1132,9402,291544190
+2015,Missouri -- Statewide,1166,9609,301363931
+2016,Missouri -- Statewide,1180,9568,311084759
+2017,Missouri -- Statewide,1227,9468,324051106
+2018,Missouri -- Statewide,1218,9441,331449488
+2000,Montana -- Statewide,428,2611,51256078
+2001,Montana -- Statewide,458,2593,51572095
+2002,Montana -- Statewide,491,2664,55723934
+2003,Montana -- Statewide,487,2785,61094090
+2004,Montana -- Statewide,490,2878,63682087
+2005,Montana -- Statewide,481,2893,66823861
+2006,Montana -- Statewide,482,2881,69896491
+2007,Montana -- Statewide,482,2916,70001271
+2008,Montana -- Statewide,510,2983,73148353
+2009,Montana -- Statewide,528,3058,75878479
+2010,Montana -- Statewide,542,3122,78814674
+2011,Montana -- Statewide,567,3267,85133540
+2012,Montana -- Statewide,591,3262,99356974
+2013,Montana -- Statewide,609,3423,98878124
+2014,Montana -- Statewide,636,3535,110006528
+2015,Montana -- Statewide,678,3850,124890288
+2016,Montana -- Statewide,719,3943,129900593
+2017,Montana -- Statewide,774,3996,134193203
+2018,Montana -- Statewide,815,4199,145618685
+2000,Nebraska -- Statewide,930,7757,173536551
+2001,Nebraska -- Statewide,974,8168,185754485
+2002,Nebraska -- Statewide,989,8131,189796737
+2003,Nebraska -- Statewide,1052,8380,205047325
+2004,Nebraska -- Statewide,1091,8471,216613338
+2005,Nebraska -- Statewide,1110,8653,227041246
+2006,Nebraska -- Statewide,1142,8832,237690263
+2007,Nebraska -- Statewide,1141,8961,249112042
+2008,Nebraska -- Statewide,1204,9178,268686705
+2009,Nebraska -- Statewide,1291,9412,281187142
+2010,Nebraska -- Statewide,1356,9624,296514556
+2011,Nebraska -- Statewide,1455,10034,325384227
+2012,Nebraska -- Statewide,1513,10334,358901875
+2013,Nebraska -- Statewide,1634,10566,378198618
+2014,Nebraska -- Statewide,1741,11015,411185677
+2015,Nebraska -- Statewide,1812,11473,438889480
+2016,Nebraska -- Statewide,1866,11729,450071236
+2017,Nebraska -- Statewide,1913,11898,461196372
+2018,Nebraska -- Statewide,1953,12227,495106980
+2000,Nevada -- Statewide,182,2006,41638880
+2001,Nevada -- Statewide,181,1965,41937915
+2002,Nevada -- Statewide,195,2004,43593395
+2003,Nevada -- Statewide,204,1941,42546731
+2004,Nevada -- Statewide,209,1948,45609075
+2005,Nevada -- Statewide,218,2005,49142401
+2006,Nevada -- Statewide,223,2169,54230913
+2007,Nevada -- Statewide,228,2195,58626242
+2008,Nevada -- Statewide,229,2185,61080470
+2009,Nevada -- Statewide,227,2056,56653119
+2010,Nevada -- Statewide,229,2006,57711577
+2011,Nevada -- Statewide,226,2046,60305197
+2012,Nevada -- Statewide,231,2038,63189913
+2013,Nevada -- Statewide,237,1997,64536965
+2014,Nevada -- Statewide,257,2131,73122775
+2015,Nevada -- Statewide,284,2265,82114841
+2016,Nevada -- Statewide,295,2794,102574956
+2017,Nevada -- Statewide,307,3498,128096295
+2018,Nevada -- Statewide,333,4520,170312859
+2000,New Hampshire -- Statewide,120,1293,25081394
+2001,New Hampshire -- Statewide,120,1286,25572362
+2002,New Hampshire -- Statewide,123,1285,25302242
+2003,New Hampshire -- Statewide,125,1253,25187787
+2004,New Hampshire -- Statewide,126,1238,26884990
+2005,New Hampshire -- Statewide,127,1205,25839132
+2006,New Hampshire -- Statewide,126,1173,25790592
+2007,New Hampshire -- Statewide,120,1123,25855966
+2008,New Hampshire -- Statewide,123,1202,29105477
+2009,New Hampshire -- Statewide,127,1175,27956001
+2010,New Hampshire -- Statewide,124,1189,29902675
+2011,New Hampshire -- Statewide,119,1218,29317147
+2012,New Hampshire -- Statewide,125,1254,30372758
+2013,New Hampshire -- Statewide,130,1308,32222293
+2014,New Hampshire -- Statewide,134,1367,35815669
+2015,New Hampshire -- Statewide,134,1401,38383294
+2016,New Hampshire -- Statewide,138,1423,41423303
+2017,New Hampshire -- Statewide,142,1441,42337847
+2018,New Hampshire -- Statewide,146,1476,45143964
+2000,New Jersey -- Statewide,768,7642,174180110
+2001,New Jersey -- Statewide,727,8097,183096089
+2002,New Jersey -- Statewide,733,8200,188697185
+2003,New Jersey -- Statewide,740,8298,195242052
+2004,New Jersey -- Statewide,720,7888,191505817
+2005,New Jersey -- Statewide,704,7910,196019728
+2006,New Jersey -- Statewide,699,8561,218970847
+2007,New Jersey -- Statewide,674,8321,225042220
+2008,New Jersey -- Statewide,681,8358,228078769
+2009,New Jersey -- Statewide,690,7992,213347663
+2010,New Jersey -- Statewide,716,8037,215109426
+2011,New Jersey -- Statewide,720,7884,223370444
+2012,New Jersey -- Statewide,687,8416,233722495
+2013,New Jersey -- Statewide,679,8164,237170615
+2014,New Jersey -- Statewide,686,8320,250037294
+2015,New Jersey -- Statewide,668,8822,269749481
+2016,New Jersey -- Statewide,670,8273,254533341
+2017,New Jersey -- Statewide,671,8371,265567936
+2018,New Jersey -- Statewide,659,7832,263795443
+2000,New Mexico -- Statewide,541,7707,143782388
+2001,New Mexico -- Statewide,545,7732,149162387
+2002,New Mexico -- Statewide,551,8275,162603296
+2003,New Mexico -- Statewide,563,8325,168929131
+2004,New Mexico -- Statewide,552,8280,174908080
+2005,New Mexico -- Statewide,547,8316,184984165
+2006,New Mexico -- Statewide,547,8473,196338981
+2007,New Mexico -- Statewide,546,8419,205485647
+2008,New Mexico -- Statewide,561,8829,224428056
+2009,New Mexico -- Statewide,548,8211,218426258
+2010,New Mexico -- Statewide,556,8224,220295869
+2011,New Mexico -- Statewide,568,8061,224065794
+2012,New Mexico -- Statewide,596,8481,235025347
+2013,New Mexico -- Statewide,588,8254,224368608
+2014,New Mexico -- Statewide,605,8411,241036862
+2015,New Mexico -- Statewide,622,8653,254742015
+2016,New Mexico -- Statewide,636,8566,266948334
+2017,New Mexico -- Statewide,636,8596,273347192
+2018,New Mexico -- Statewide,643,8668,285752875
+2000,New York -- Statewide,1594,17661,354915566
+2001,New York -- Statewide,1610,17990,380901399
+2002,New York -- Statewide,1610,17935,391721473
+2003,New York -- Statewide,1608,18258,410233106
+2004,New York -- Statewide,1612,18918,441752499
+2005,New York -- Statewide,1608,18736,447048913
+2006,New York -- Statewide,1614,18381,467311357
+2007,New York -- Statewide,1668,18828,498147058
+2008,New York -- Statewide,1717,19231,518385478
+2009,New York -- Statewide,1753,19486,531890455
+2010,New York -- Statewide,1771,19396,547673766
+2011,New York -- Statewide,1809,19816,572598170
+2012,New York -- Statewide,1831,20091,591930614
+2013,New York -- Statewide,1886,21222,637518839
+2014,New York -- Statewide,1912,22104,675282621
+2015,New York -- Statewide,1965,22335,713420680
+2016,New York -- Statewide,1965,22582,744350879
+2017,New York -- Statewide,1986,23025,793127605
+2018,New York -- Statewide,2012,23589,844465700
+2000,North Carolina -- Statewide,1902,23169,486469067
+2001,North Carolina -- Statewide,1902,23524,513943267
+2002,North Carolina -- Statewide,1876,23346,516866244
+2003,North Carolina -- Statewide,1819,22895,518257314
+2004,North Carolina -- Statewide,1791,23285,544897028
+2005,North Carolina -- Statewide,1809,22073,546336355
+2006,North Carolina -- Statewide,1806,21944,569703492
+2007,North Carolina -- Statewide,1791,22505,612856071
+2008,North Carolina -- Statewide,1873,22124,586863188
+2009,North Carolina -- Statewide,1931,21897,569320998
+2010,North Carolina -- Statewide,1957,21707,581393685
+2011,North Carolina -- Statewide,1987,21255,576842214
+2012,North Carolina -- Statewide,2021,21552,605193161
+2013,North Carolina -- Statewide,2054,21281,615307698
+2014,North Carolina -- Statewide,2090,21180,628104035
+2015,North Carolina -- Statewide,2121,21356,652207547
+2016,North Carolina -- Statewide,2097,20803,664851105
+2017,North Carolina -- Statewide,2098,20416,670514063
+2018,North Carolina -- Statewide,2113,19677,677636753
+2000,North Dakota -- Statewide,315,1933,44600222
+2001,North Dakota -- Statewide,333,2029,48362843
+2002,North Dakota -- Statewide,343,2072,55425816
+2003,North Dakota -- Statewide,349,2157,55963646
+2004,North Dakota -- Statewide,361,2200,61839916
+2005,North Dakota -- Statewide,373,2176,60280885
+2006,North Dakota -- Statewide,381,2248,63021943
+2007,North Dakota -- Statewide,389,2416,71862851
+2008,North Dakota -- Statewide,422,2482,79014207
+2009,North Dakota -- Statewide,452,2665,92361657
+2010,North Dakota -- Statewide,498,2899,100875916
+2011,North Dakota -- Statewide,553,3068,109773567
+2012,North Dakota -- Statewide,597,3295,129258543
+2013,North Dakota -- Statewide,662,3484,137048032
+2014,North Dakota -- Statewide,724,3592,145626075
+2015,North Dakota -- Statewide,755,3657,150812338
+2016,North Dakota -- Statewide,789,3727,153855752
+2017,North Dakota -- Statewide,819,3779,163620506
+2018,North Dakota -- Statewide,843,3850,162969080
+2000,Ohio -- Statewide,845,13393,259231618
+2001,Ohio -- Statewide,886,12842,263073214
+2002,Ohio -- Statewide,916,12702,265525650
+2003,Ohio -- Statewide,930,12445,264718509
+2004,Ohio -- Statewide,911,12291,277464368
+2005,Ohio -- Statewide,912,12075,277148036
+2006,Ohio -- Statewide,932,11968,279975572
+2007,Ohio -- Statewide,926,11754,287424535
+2008,Ohio -- Statewide,931,11900,296922398
+2009,Ohio -- Statewide,922,11499,295872831
+2010,Ohio -- Statewide,938,11703,302932488
+2011,Ohio -- Statewide,972,11839,319014073
+2012,Ohio -- Statewide,1017,12135,337154758
+2013,Ohio -- Statewide,1068,12408,354232886
+2014,Ohio -- Statewide,1115,13024,397733503
+2015,Ohio -- Statewide,1146,13551,429572298
+2016,Ohio -- Statewide,1182,14011,444908827
+2017,Ohio -- Statewide,1184,13961,454620048
+2018,Ohio -- Statewide,1199,14121,490532397
+2000,Oklahoma -- Statewide,449,5773,115797792
+2001,Oklahoma -- Statewide,460,5944,120614063
+2002,Oklahoma -- Statewide,492,6004,122180988
+2003,Oklahoma -- Statewide,513,5931,128766960
+2004,Oklahoma -- Statewide,537,5961,131443730
+2005,Oklahoma -- Statewide,547,6081,137329071
+2006,Oklahoma -- Statewide,564,6121,144355801
+2007,Oklahoma -- Statewide,584,6201,154750049
+2008,Oklahoma -- Statewide,576,6092,160656039
+2009,Oklahoma -- Statewide,590,9159,271478222
+2010,Oklahoma -- Statewide,602,8999,273345276
+2011,Oklahoma -- Statewide,616,8993,287484345
+2012,Oklahoma -- Statewide,623,9226,308062375
+2013,Oklahoma -- Statewide,640,9223,309039409
+2014,Oklahoma -- Statewide,654,9226,318212547
+2015,Oklahoma -- Statewide,679,9502,351173491
+2016,Oklahoma -- Statewide,684,9645,355819218
+2017,Oklahoma -- Statewide,699,9675,364964355
+2018,Oklahoma -- Statewide,717,9712,378682291
+2000,Oregon -- Statewide,1726,28470,522651201
+2001,Oregon -- Statewide,1768,28353,532717683
+2002,Oregon -- Statewide,1786,28269,543813417
+2003,Oregon -- Statewide,1778,28924,573902673
+2004,Oregon -- Statewide,1802,30437,611356521
+2005,Oregon -- Statewide,1828,30229,641173508
+2006,Oregon -- Statewide,1881,30506,685105537
+2007,Oregon -- Statewide,1919,31057,723990794
+2008,Oregon -- Statewide,1961,30722,727732350
+2009,Oregon -- Statewide,2035,29621,713069752
+2010,Oregon -- Statewide,2098,29040,696921579
+2011,Oregon -- Statewide,2151,29100,714945529
+2012,Oregon -- Statewide,2211,29683,758044283
+2013,Oregon -- Statewide,2223,30694,806432174
+2014,Oregon -- Statewide,2285,30378,842278768
+2015,Oregon -- Statewide,2368,30220,891766305
+2016,Oregon -- Statewide,2512,30458,942136146
+2017,Oregon -- Statewide,2778,31740,1023995989
+2018,Oregon -- Statewide,2870,31808,1082696901
+2000,Pennsylvania -- Statewide,1070,18856,397304749
+2001,Pennsylvania -- Statewide,1164,19324,412294874
+2002,Pennsylvania -- Statewide,1154,19453,426178666
+2003,Pennsylvania -- Statewide,1186,19923,454241987
+2004,Pennsylvania -- Statewide,1194,19709,485857416
+2005,Pennsylvania -- Statewide,1190,19797,478459050
+2006,Pennsylvania -- Statewide,1190,19547,489972425
+2007,Pennsylvania -- Statewide,1191,19124,504285117
+2008,Pennsylvania -- Statewide,1227,19338,523564409
+2009,Pennsylvania -- Statewide,1249,19187,521850636
+2010,Pennsylvania -- Statewide,1270,19030,528582887
+2011,Pennsylvania -- Statewide,1297,19116,542948151
+2012,Pennsylvania -- Statewide,1332,18606,549397673
+2013,Pennsylvania -- Statewide,1352,19225,578933874
+2014,Pennsylvania -- Statewide,1429,19777,625723525
+2015,Pennsylvania -- Statewide,1499,20238,668074890
+2016,Pennsylvania -- Statewide,1540,20408,678425725
+2017,Pennsylvania -- Statewide,1574,20417,702531518
+2018,Pennsylvania -- Statewide,1625,20338,720666869
+2000,Rhode Island -- Statewide,118,693,13431770
+2001,Rhode Island -- Statewide,89,564,12542098
+2002,Rhode Island -- Statewide,0,0,0
+2003,Rhode Island -- Statewide,81,512,11646371
+2004,Rhode Island -- Statewide,103,534,13068102
+2005,Rhode Island -- Statewide,109,718,15923180
+2006,Rhode Island -- Statewide,111,612,15380480
+2007,Rhode Island -- Statewide,108,0,0
+2008,Rhode Island -- Statewide,114,103,2335837
+2009,Rhode Island -- Statewide,117,0,0
+2010,Rhode Island -- Statewide,114,102,2338055
+2011,Rhode Island -- Statewide,116,0,0
+2012,Rhode Island -- Statewide,116,594,14675870
+2013,Rhode Island -- Statewide,116,593,15014968
+2014,Rhode Island -- Statewide,116,638,16354486
+2015,Rhode Island -- Statewide,118,624,17206849
+2016,Rhode Island -- Statewide,125,653,18811338
+2017,Rhode Island -- Statewide,126,712,20473569
+2018,Rhode Island -- Statewide,131,748,21663935
+2000,South Carolina -- Statewide,460,6536,119813761
+2001,South Carolina -- Statewide,462,6217,122489776
+2002,South Carolina -- Statewide,471,6815,129366791
+2003,South Carolina -- Statewide,432,6606,130046276
+2004,South Carolina -- Statewide,408,6785,145617141
+2005,South Carolina -- Statewide,418,6695,152532763
+2006,South Carolina -- Statewide,451,6559,157709809
+2007,South Carolina -- Statewide,386,6504,161242835
+2008,South Carolina -- Statewide,384,6261,157461387
+2009,South Carolina -- Statewide,375,6205,151043621
+2010,South Carolina -- Statewide,373,6095,153741939
+2011,South Carolina -- Statewide,377,5683,146367282
+2012,South Carolina -- Statewide,370,5895,157182073
+2013,South Carolina -- Statewide,379,5997,160499770
+2014,South Carolina -- Statewide,386,5768,162950857
+2015,South Carolina -- Statewide,407,5615,163295785
+2016,South Carolina -- Statewide,415,5508,167769389
+2017,South Carolina -- Statewide,436,5589,175123731
+2018,South Carolina -- Statewide,459,5578,174588245
+2000,South Dakota -- Statewide,289,2114,42158801
+2001,South Dakota -- Statewide,297,2191,44146262
+2002,South Dakota -- Statewide,307,2305,48466862
+2003,South Dakota -- Statewide,324,2428,53589901
+2004,South Dakota -- Statewide,349,2574,60138786
+2005,South Dakota -- Statewide,363,2705,64882882
+2006,South Dakota -- Statewide,370,2790,69382769
+2007,South Dakota -- Statewide,385,2963,77827218
+2008,South Dakota -- Statewide,411,3191,87748383
+2009,South Dakota -- Statewide,445,3358,96848866
+2010,South Dakota -- Statewide,473,3543,105029898
+2011,South Dakota -- Statewide,512,3768,116920553
+2012,South Dakota -- Statewide,556,3949,128272290
+2013,South Dakota -- Statewide,596,4209,140541750
+2014,South Dakota -- Statewide,648,4502,159970992
+2015,South Dakota -- Statewide,712,4808,176039789
+2016,South Dakota -- Statewide,759,4997,187833460
+2017,South Dakota -- Statewide,793,5179,196696064
+2018,South Dakota -- Statewide,814,5339,209654318
+2000,Tennessee -- Statewide,356,4650,101052435
+2001,Tennessee -- Statewide,251,3810,75476124
+2002,Tennessee -- Statewide,366,4790,104079283
+2003,Tennessee -- Statewide,268,3813,80911820
+2004,Tennessee -- Statewide,375,4807,115544581
+2005,Tennessee -- Statewide,377,4858,117530638
+2006,Tennessee -- Statewide,388,5070,132611863
+2007,Tennessee -- Statewide,404,5276,139524807
+2008,Tennessee -- Statewide,413,5406,139449024
+2009,Tennessee -- Statewide,428,5683,145197461
+2010,Tennessee -- Statewide,436,5534,148332316
+2011,Tennessee -- Statewide,423,5589,152049910
+2012,Tennessee -- Statewide,426,5596,153714158
+2013,Tennessee -- Statewide,440,5628,163496304
+2014,Tennessee -- Statewide,469,5795,171947804
+2015,Tennessee -- Statewide,483,5685,172957353
+2016,Tennessee -- Statewide,536,5741,182536833
+2017,Tennessee -- Statewide,543,5451,182558589
+2018,Tennessee -- Statewide,565,5447,187456116
+2000,Texas -- Statewide,7869,48469,914451931
+2001,Texas -- Statewide,7883,46869,929900590
+2002,Texas -- Statewide,7642,46434,941087593
+2003,Texas -- Statewide,7495,45712,962277620
+2004,Texas -- Statewide,7438,45734,1003958801
+2005,Texas -- Statewide,7466,46268,1037863755
+2006,Texas -- Statewide,7459,45520,1088930517
+2007,Texas -- Statewide,7603,45759,1133140409
+2008,Texas -- Statewide,7510,45580,1202237271
+2009,Texas -- Statewide,7497,43759,1177056414
+2010,Texas -- Statewide,7482,43507,1200630797
+2011,Texas -- Statewide,7520,43306,1230625320
+2012,Texas -- Statewide,7670,44457,1322214153
+2013,Texas -- Statewide,7826,44832,1352949565
+2014,Texas -- Statewide,7952,45671,1442064621
+2015,Texas -- Statewide,8040,46408,1525895906
+2016,Texas -- Statewide,8149,46331,1557674617
+2017,Texas -- Statewide,8246,46610,1625604724
+2018,Texas -- Statewide,8275,46325,1689057344
+2000,Utah -- Statewide,249,3454,66394435
+2001,Utah -- Statewide,264,3553,72263018
+2002,Utah -- Statewide,272,3577,75022740
+2003,Utah -- Statewide,278,3682,76666336
+2004,Utah -- Statewide,285,3854,82297346
+2005,Utah -- Statewide,290,3955,86865760
+2006,Utah -- Statewide,300,3953,91293449
+2007,Utah -- Statewide,292,3949,95330768
+2008,Utah -- Statewide,295,3876,97461927
+2009,Utah -- Statewide,300,3864,96909106
+2010,Utah -- Statewide,276,3791,98070812
+2011,Utah -- Statewide,295,3953,102121051
+2012,Utah -- Statewide,314,4216,112111351
+2013,Utah -- Statewide,330,4338,120753302
+2014,Utah -- Statewide,339,4512,128956918
+2015,Utah -- Statewide,359,4681,134776792
+2016,Utah -- Statewide,369,4767,140913301
+2017,Utah -- Statewide,378,4777,145181486
+2018,Utah -- Statewide,358,4793,154033022
+2000,Vermont -- Statewide,168,1607,28262958
+2001,Vermont -- Statewide,192,1709,32262143
+2002,Vermont -- Statewide,210,1626,31454293
+2003,Vermont -- Statewide,216,1668,32690127
+2004,Vermont -- Statewide,227,1782,36455976
+2005,Vermont -- Statewide,230,1826,39098945
+2006,Vermont -- Statewide,229,1822,40401899
+2007,Vermont -- Statewide,232,1872,44813672
+2008,Vermont -- Statewide,246,1971,49248487
+2009,Vermont -- Statewide,254,1961,50660180
+2010,Vermont -- Statewide,260,1942,49422968
+2011,Vermont -- Statewide,270,2055,54345585
+2012,Vermont -- Statewide,285,2216,60575514
+2013,Vermont -- Statewide,299,2321,66038638
+2014,Vermont -- Statewide,303,2498,72972600
+2015,Vermont -- Statewide,324,2650,80491922
+2016,Vermont -- Statewide,335,2728,84371999
+2017,Vermont -- Statewide,343,2770,88626755
+2018,Vermont -- Statewide,344,2824,93356832
+2000,Virginia -- Statewide,871,9958,190613612
+2001,Virginia -- Statewide,878,10084,201945980
+2002,Virginia -- Statewide,873,9771,197942691
+2003,Virginia -- Statewide,845,9229,196791737
+2004,Virginia -- Statewide,843,9376,208225286
+2005,Virginia -- Statewide,848,9334,218244728
+2006,Virginia -- Statewide,840,8984,217277487
+2007,Virginia -- Statewide,837,8757,221845286
+2008,Virginia -- Statewide,840,8528,220399382
+2009,Virginia -- Statewide,835,8485,212223049
+2010,Virginia -- Statewide,831,8255,214235842
+2011,Virginia -- Statewide,853,8452,225403707
+2012,Virginia -- Statewide,867,8617,237075582
+2013,Virginia -- Statewide,871,8352,235479495
+2014,Virginia -- Statewide,870,8216,237548643
+2015,Virginia -- Statewide,906,8314,249891939
+2016,Virginia -- Statewide,940,8487,263954168
+2017,Virginia -- Statewide,970,8882,283369780
+2018,Virginia -- Statewide,995,8698,284952207
+2000,Washington -- Statewide,8071,60729,927164180
+2001,Washington -- Statewide,7737,56772,881625656
+2002,Washington -- Statewide,7468,55150,892549168
+2003,Washington -- Statewide,6974,57352,925763569
+2004,Washington -- Statewide,6648,61195,1032307890
+2005,Washington -- Statewide,6462,60409,1052540983
+2006,Washington -- Statewide,6324,60927,1115448531
+2007,Washington -- Statewide,6172,61483,1199057948
+2008,Washington -- Statewide,5992,63477,1305136580
+2009,Washington -- Statewide,5941,66511,1362292872
+2010,Washington -- Statewide,5836,65451,1352747083
+2011,Washington -- Statewide,5750,66018,1430834458
+2012,Washington -- Statewide,5704,70584,1605587062
+2013,Washington -- Statewide,5694,69174,1634430969
+2014,Washington -- Statewide,5944,72903,1807928632
+2015,Washington -- Statewide,6070,74910,1926795296
+2016,Washington -- Statewide,6055,76590,2057048534
+2017,Washington -- Statewide,5930,75082,2142432248
+2018,Washington -- Statewide,5739,75354,2232368119
+2000,West Virginia -- Statewide,138,1055,17745461
+2001,West Virginia -- Statewide,138,1009,18715235
+2002,West Virginia -- Statewide,132,1011,18586696
+2003,West Virginia -- Statewide,131,989,18479966
+2004,West Virginia -- Statewide,131,940,19298644
+2005,West Virginia -- Statewide,112,789,16099052
+2006,West Virginia -- Statewide,107,567,11546362
+2007,West Virginia -- Statewide,104,593,12923584
+2008,West Virginia -- Statewide,106,830,18491528
+2009,West Virginia -- Statewide,120,900,21427693
+2010,West Virginia -- Statewide,118,837,19640306
+2011,West Virginia -- Statewide,120,534,12216837
+2012,West Virginia -- Statewide,119,826,20132978
+2013,West Virginia -- Statewide,113,832,20944032
+2014,West Virginia -- Statewide,118,825,22409464
+2015,West Virginia -- Statewide,118,824,22865847
+2016,West Virginia -- Statewide,115,811,22674657
+2017,West Virginia -- Statewide,115,799,22697926
+2018,West Virginia -- Statewide,119,827,23229234
+2000,Wisconsin -- Statewide,1180,12990,262977263
+2001,Wisconsin -- Statewide,1253,13715,283737777
+2002,Wisconsin -- Statewide,1291,14138,303317041
+2003,Wisconsin -- Statewide,1337,14410,314791206
+2004,Wisconsin -- Statewide,1339,14688,339909247
+2005,Wisconsin -- Statewide,1405,15096,357007211
+2006,Wisconsin -- Statewide,1446,15661,377612080
+2007,Wisconsin -- Statewide,1517,16507,415639902
+2008,Wisconsin -- Statewide,1597,17552,485352076
+2009,Wisconsin -- Statewide,1652,18212,493095387
+2010,Wisconsin -- Statewide,1701,18915,508089430
+2011,Wisconsin -- Statewide,1753,19525,540087123
+2012,Wisconsin -- Statewide,1817,20452,586512473
+2013,Wisconsin -- Statewide,1857,21150,622453018
+2014,Wisconsin -- Statewide,1860,21774,670459227
+2015,Wisconsin -- Statewide,1972,22989,728376751
+2016,Wisconsin -- Statewide,2038,23759,768061683
+2017,Wisconsin -- Statewide,2093,24252,805284982
+2018,Wisconsin -- Statewide,2141,24190,824403901
+2000,Wyoming -- Statewide,258,1887,38392338
+2001,Wyoming -- Statewide,280,1986,40519971
+2002,Wyoming -- Statewide,294,1965,39830317
+2003,Wyoming -- Statewide,299,1959,41268243
+2004,Wyoming -- Statewide,303,2013,43864597
+2005,Wyoming -- Statewide,315,2054,48822583
+2006,Wyoming -- Statewide,327,2081,53304266
+2007,Wyoming -- Statewide,331,2058,54296814
+2008,Wyoming -- Statewide,340,2118,57791482
+2009,Wyoming -- Statewide,355,2142,57520649
+2010,Wyoming -- Statewide,366,2187,60987040
+2011,Wyoming -- Statewide,372,2218,64371409
+2012,Wyoming -- Statewide,382,2291,68467205
+2013,Wyoming -- Statewide,389,2321,71917227
+2014,Wyoming -- Statewide,389,2300,75466386
+2015,Wyoming -- Statewide,384,2327,79069461
+2016,Wyoming -- Statewide,398,2407,79838127
+2017,Wyoming -- Statewide,406,2500,84556362
+2018,Wyoming -- Statewide,412,2521,90078997
